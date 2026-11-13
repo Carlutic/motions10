@@ -1,0 +1,243 @@
+[
+  {
+    "name": "30fps I Like to Move (v2 FIX more straight pose)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/main.vmd",
+    "camMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/camera.vmd",
+    "expressionMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/expression.vmd"
+  },
+  {
+    "name": "30fps I Like to Move (v2 FIX)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/main_2.vmd",
+    "camMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/camera.vmd",
+    "expressionMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/expression.vmd"
+  },
+  {
+    "name": "30fps I Like to Move (v2)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/main_3.vmd",
+    "camMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/camera.vmd",
+    "expressionMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/expression.vmd"
+  },
+  {
+    "name": "オートバス_Tdaミク",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p01_autobas/main.vmd",
+    "camMotionFile": "dance_and_sex/p01_autobas/camera.vmd",
+    "audioPlayerFile": "dance_and_sex/p01_autobas/audio.wav"
+  },
+  {
+    "name": "BBIaS_Nomal",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p02_beep_beep_i_m_a_seep/main.vmd",
+    "camMotionFile": "dance_and_sex/p02_beep_beep_i_m_a_seep/camera.vmd",
+    "expressionMotionFile": "dance_and_sex/p02_beep_beep_i_m_a_seep/expression.vmd"
+  },
+  {
+    "name": "BBIaS_ecchi",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p02_beep_beep_i_m_a_seep/main_2.vmd",
+    "camMotionFile": "dance_and_sex/p02_beep_beep_i_m_a_seep/camera.vmd"
+  },
+  {
+    "name": "Bigジューシー_つみだんご式しまかぜ",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p03_big/main.vmd",
+    "camMotionFile": "dance_and_sex/p03_big/camera.vmd",
+    "audioPlayerFile": "dance_and_sex/p03_big/audio.wav"
+  },
+  {
+    "name": "Bigジューシー_巨乳用",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p03_big/main_2.vmd",
+    "camMotionFile": "dance_and_sex/p03_big/camera_2.vmd",
+    "audioPlayerFile": "dance_and_sex/p03_big/audio.wav"
+  },
+  {
+    "name": "Blaze",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p04_blaze/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p04_blaze/partner.vmd",
+    "camMotionFile": "dance_and_sex/p04_blaze/camera.vmd",
+    "audioPlayerFile": "dance_and_sex/p04_blaze/audio.wav"
+  },
+  {
+    "name": "Enieu_BJ_1",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p05_enieu_bj_1/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p05_enieu_bj_1/partner.vmd",
+    "camMotionFile": "dance_and_sex/p05_enieu_bj_1/camera.vmd",
+    "audioPlayerFile": "dance_and_sex/p05_enieu_bj_1/audio.wav"
+  },
+  {
+    "name": "GrolyHole_alpha(USE armIK)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p06_grolyhole/main.vmd",
+    "camMotionFile": "dance_and_sex/p06_grolyhole/camera.vmd"
+  },
+  {
+    "name": "Hocus Pocus",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p07_hocus_pocus/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p07_hocus_pocus/partner.vmd",
+    "camMotionFile": "dance_and_sex/p07_hocus_pocus/camera.vmd",
+    "expressionMotionFile": "dance_and_sex/p07_hocus_pocus/expression.vmd",
+    "partnerExpressionMotionFile": "dance_and_sex/p07_hocus_pocus/partner_expression.vmd",
+    "audioPlayerFile": "dance_and_sex/p07_hocus_pocus/audio.wav"
+  },
+  {
+    "name": "Lamb sex",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p16_lambsoxmotion_ryu_fix/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p16_lambsoxmotion_ryu_fix/partner.vmd",
+    "camMotionFile": "dance_and_sex/p16_lambsoxmotion_ryu_fix/camera.vmd",
+    "partnerExpressionMotionFile": "dance_and_sex/p16_lambsoxmotion_ryu_fix/partner_expression.vmd"
+  },
+  {
+    "name": "Stand and Carry (Maran Version)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p09_maran_version/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p09_maran_version/partner.vmd"
+  },
+  {
+    "name": "Stand and Carry (Sin Sack Version)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p12_sin_sack_version/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p12_sin_sack_version/partner.vmd"
+  },
+  {
+    "name": "MMD Carol of the Bells",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p08_mmd_carol_of_the_bells/main.vmd",
+    "camMotionFile": "dance_and_sex/p08_mmd_carol_of_the_bells/camera.vmd",
+    "audioPlayerFile": "dance_and_sex/p08_mmd_carol_of_the_bells/audio.wav"
+  },
+  {
+    "name": "Onegai Darling",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p10_onegai_darling/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p10_onegai_darling/partner.vmd"
+  },
+  {
+    "name": "Onegai Darling (girl no parant)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p10_onegai_darling/main_2.vmd",
+    "partnerMotionFile": "dance_and_sex/p10_onegai_darling/partner.vmd"
+  },
+  {
+    "name": "SEXダーリンダンス",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p11_sex/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p11_sex/partner.vmd"
+  },
+  {
+    "name": "Full swim 1",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p13_swimming_with_dolphins/main.vmd",
+    "camMotionFile": "dance_and_sex/p13_swimming_with_dolphins/camera.vmd"
+  },
+  {
+    "name": "Dolphin motion",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p13_swimming_with_dolphins/main_2.vmd"
+  },
+  {
+    "name": "dolphin swimming mmd_tools",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p13_swimming_with_dolphins/main_3.vmd"
+  },
+  {
+    "name": "Complete sleep",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p14_wet_dreams_motion/main.vmd",
+    "camMotionFile": "dance_and_sex/p14_wet_dreams_motion/camera.vmd"
+  },
+  {
+    "name": "bed motion",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p14_wet_dreams_motion/main_2.vmd"
+  },
+  {
+    "name": "WORKDATMONKEY",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p15_work_dat_monkey_motion_cam_wav/main.vmd",
+    "camMotionFile": "dance_and_sex/p15_work_dat_monkey_motion_cam_wav/camera.vmd",
+    "audioPlayerFile": "dance_and_sex/p15_work_dat_monkey_motion_cam_wav/audio.wav"
+  },
+  {
+    "name": "いぢわる素振り",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p18_pack/main.vmd"
+  },
+  {
+    "name": "舌出し主観素振り full",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p21_pack/main.vmd",
+    "expressionMotionFile": "dance_and_sex/p21_pack/expression.vmd"
+  },
+  {
+    "name": "舌出し主観素振り loop",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p21_pack/main_2.vmd",
+    "expressionMotionFile": "dance_and_sex/p21_pack/expression_2.vmd"
+  },
+  {
+    "name": "舌出し掌受け待ち",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p21_pack/main_3.vmd",
+    "expressionMotionFile": "dance_and_sex/p21_pack/expression_3.vmd"
+  },
+  {
+    "name": "Двигай Телом",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p17_pack/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p17_pack/partner.vmd",
+    "camMotionFile": "dance_and_sex/p17_pack/camera.vmd"
+  },
+  {
+    "name": "お願いモーション",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p19_pack/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p19_pack/partner.vmd",
+    "camMotionFile": "dance_and_sex/p19_pack/camera.vmd"
+  },
+  {
+    "name": "お願いモーション (改変版)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p19_pack/main_2.vmd",
+    "partnerMotionFile": "dance_and_sex/p19_pack/partner_2.vmd",
+    "camMotionFile": "dance_and_sex/p19_pack/camera_2.vmd"
+  },
+  {
+    "name": "皆で仲良くポンデステーン（女真ん中）",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p20_pack/main.vmd",
+    "partnerMotionFile": "dance_and_sex/p20_pack/partner.vmd",
+    "camMotionFile": "dance_and_sex/p20_pack/camera.vmd",
+    "expressionMotionFile": "dance_and_sex/p20_pack/expression.vmd"
+  },
+  {
+    "name": "皆で仲良くポンデステーン（女左）",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p20_pack/main_2.vmd",
+    "partnerMotionFile": "dance_and_sex/p20_pack/partner.vmd",
+    "camMotionFile": "dance_and_sex/p20_pack/camera.vmd",
+    "expressionMotionFile": "dance_and_sex/p20_pack/expression.vmd"
+  },
+  {
+    "name": "皆で仲良くポンデステーン（女右）",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p20_pack/main_3.vmd",
+    "partnerMotionFile": "dance_and_sex/p20_pack/partner.vmd",
+    "camMotionFile": "dance_and_sex/p20_pack/camera.vmd",
+    "expressionMotionFile": "dance_and_sex/p20_pack/expression.vmd"
+  },
+  {
+    "name": "皆で仲良くポンデステーン (ターンステージ外親仕様)",
+    "group": "Dance and Sex",
+    "modelMotionFile": "dance_and_sex/p20_pack/main_4.vmd",
+    "partnerMotionFile": "dance_and_sex/p20_pack/partner.vmd",
+    "camMotionFile": "dance_and_sex/p20_pack/camera.vmd"
+  }
+]
