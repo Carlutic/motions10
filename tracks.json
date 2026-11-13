@@ -239,5 +239,328 @@
     "modelMotionFile": "dance_and_sex/p20_pack/main_4.vmd",
     "partnerMotionFile": "dance_and_sex/p20_pack/partner.vmd",
     "camMotionFile": "dance_and_sex/p20_pack/camera.vmd"
+  },
+  {
+    "name": "Izumi Enjoys",
+    "group": "Sex",
+    "modelMotionFile": "sex/p00_p/main.vmd"
+  },
+  {
+    "name": "Shake it Izumi",
+    "group": "Sex",
+    "modelMotionFile": "sex/p00_p/main_2.vmd"
+  },
+  {
+    "name": "What do you want me to do",
+    "group": "Sex",
+    "modelMotionFile": "sex/p01_what_is_this_hard_thing/main.vmd",
+    "camMotionFile": "sex/p01_what_is_this_hard_thing/camera.vmd"
+  },
+  {
+    "name": "Welcome - Blowjob",
+    "group": "Sex",
+    "modelMotionFile": "sex/p02_blowjob/main.vmd",
+    "partnerMotionFile": "sex/p02_blowjob/partner.vmd",
+    "camMotionFile": "sex/p02_blowjob/camera.vmd",
+    "partnerExpressionMotionFile": "sex/p02_blowjob/partner_expression.vmd",
+    "audioPlayerFile": "sex/p02_blowjob/audio.wav"
+  },
+  {
+    "name": "Couch Cowgirl",
+    "group": "Sex",
+    "modelMotionFile": "sex/p03_couch_cowgirl/main.vmd",
+    "partnerMotionFile": "sex/p03_couch_cowgirl/partner.vmd",
+    "camMotionFile": "sex/p03_couch_cowgirl/camera.vmd"
+  },
+  {
+    "name": "Couch Cowgirl V2 - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p04_couch_cowgirl_v2_by_ademar/main.vmd",
+    "partnerMotionFile": "sex/p04_couch_cowgirl_v2_by_ademar/partner.vmd"
+  },
+  {
+    "name": "Couch Cowgirl V2 - Sin Sack",
+    "group": "Sex",
+    "modelMotionFile": "sex/p04_couch_cowgirl_v2_by_ademar/main.vmd",
+    "partnerMotionFile": "sex/p04_couch_cowgirl_v2_by_ademar/partner_2.vmd"
+  },
+  {
+    "name": "Emperor position Izumi (Maran)",
+    "group": "Sex",
+    "modelMotionFile": "sex/p05_emperor_position_izumi_ver/main.vmd",
+    "partnerMotionFile": "sex/p05_emperor_position_izumi_ver/partner.vmd"
+  },
+  {
+    "name": "Emperor position Izumi (Sin Sack)",
+    "group": "Sex",
+    "modelMotionFile": "sex/p05_emperor_position_izumi_ver/main.vmd",
+    "partnerMotionFile": "sex/p05_emperor_position_izumi_ver/partner_2.vmd"
+  },
+  {
+    "name": "Just Tonight - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p06_just_tonight_1_1_by_ademar/main.vmd",
+    "partnerMotionFile": "sex/p06_just_tonight_1_1_by_ademar/partner.vmd",
+    "camMotionFile": "sex/p08_just_tonight_1_1_by_ademar/camera.vmd",
+    "audioPlayerFile": "sex/p08_just_tonight_1_1_by_ademar/audio.wav"
+  },
+  {
+    "name": "Just Tonight - Sin Sack",
+    "group": "Sex",
+    "modelMotionFile": "sex/p07_just_tonight_1_1_by_ademar/main.vmd",
+    "partnerMotionFile": "sex/p07_just_tonight_1_1_by_ademar/partner.vmd",
+    "camMotionFile": "sex/p08_just_tonight_1_1_by_ademar/camera.vmd",
+    "audioPlayerFile": "sex/p08_just_tonight_1_1_by_ademar/audio.wav"
+  },
+  {
+    "name": "Fondling 01 - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p09_just_tonight_1_1_by_ademar/main.vmd",
+    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner.vmd"
+  },
+  {
+    "name": "Fondling 01 - Sin Sack",
+    "group": "Sex",
+    "modelMotionFile": "sex/p09_just_tonight_1_1_by_ademar/main.vmd",
+    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_2.vmd"
+  },
+  {
+    "name": "Fondling 02 - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p09_just_tonight_1_1_by_ademar/main_2.vmd",
+    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_3.vmd"
+  },
+  {
+    "name": "Fondling 02 - Sin Sack",
+    "group": "Sex",
+    "modelMotionFile": "sex/p09_just_tonight_1_1_by_ademar/main_2.vmd",
+    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_4.vmd"
+  },
+  {
+    "name": "Lap Sitting",
+    "group": "Sex",
+    "modelMotionFile": "sex/p10_lap_sitting/main.vmd",
+    "partnerMotionFile": "sex/p10_lap_sitting/partner.vmd",
+    "camMotionFile": "sex/p10_lap_sitting/camera.vmd"
+  },
+  {
+    "name": "Love Hotel DS Loop Bikini Izumi - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p11_lhds_v3_by_ademar440/main.vmd",
+    "partnerMotionFile": "sex/p11_lhds_v3_by_ademar440/partner.vmd"
+  },
+  {
+    "name": "Love Hotel DS Loop Bikini Izumi alt arms - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p11_lhds_v3_by_ademar440/main_2.vmd",
+    "partnerMotionFile": "sex/p11_lhds_v3_by_ademar440/partner.vmd"
+  },
+  {
+    "name": "Love Hotel DS Loop - Sin Sack",
+    "group": "Sex",
+    "modelMotionFile": "sex/p11_lhds_v3_by_ademar440/main.vmd",
+    "partnerMotionFile": "sex/p11_lhds_v3_by_ademar440/partner_2.vmd"
+  },
+  {
+    "name": "Loop 01 - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p12_loop_01/main.vmd",
+    "partnerMotionFile": "sex/p12_loop_01/partner.vmd"
+  },
+  {
+    "name": "Loop 01 - SS21",
+    "group": "Sex",
+    "modelMotionFile": "sex/p12_loop_01/main.vmd",
+    "partnerMotionFile": "sex/p12_loop_01/partner_2.vmd"
+  },
+  {
+    "name": "Loop 03 - Kaat",
+    "group": "Sex",
+    "modelMotionFile": "sex/p13_loop_03/main.vmd",
+    "partnerMotionFile": "sex/p13_loop_03/partner.vmd"
+  },
+  {
+    "name": "Loop 04 Grind - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p14_loop_04_grind/main.vmd",
+    "partnerMotionFile": "sex/p14_loop_04_grind/partner.vmd"
+  },
+  {
+    "name": "Loop 05 - Kaat",
+    "group": "Sex",
+    "modelMotionFile": "sex/p15_loop_05/main.vmd",
+    "partnerMotionFile": "sex/p15_loop_05/partner.vmd"
+  },
+  {
+    "name": "Loop 06",
+    "group": "Sex",
+    "modelMotionFile": "sex/p16_loop_06/main.vmd",
+    "partnerMotionFile": "sex/p16_loop_06/partner.vmd",
+    "camMotionFile": "sex/p16_loop_06/camera.vmd"
+  },
+  {
+    "name": "Loop 07 - Spooning - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p17_loop_07_spooning/main.vmd",
+    "partnerMotionFile": "sex/p17_loop_07_spooning/partner.vmd"
+  },
+  {
+    "name": "Loop 08 - Kaat",
+    "group": "Sex",
+    "modelMotionFile": "sex/p18_loop_08/main.vmd",
+    "partnerMotionFile": "sex/p18_loop_08/partner.vmd"
+  },
+  {
+    "name": "Loop 09 - Romantic CG - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p19_loop_09_romantic_cg/main.vmd",
+    "partnerMotionFile": "sex/p19_loop_09_romantic_cg/partner.vmd"
+  },
+  {
+    "name": "Love Hotel CG",
+    "group": "Sex",
+    "modelMotionFile": "sex/p20_love_hotel_night_extra_loo/main.vmd",
+    "partnerMotionFile": "sex/p20_love_hotel_night_extra_loo/partner.vmd",
+    "camMotionFile": "sex/p20_love_hotel_night_extra_loo/camera.vmd"
+  },
+  {
+    "name": "Love Hotel DS Loop",
+    "group": "Sex",
+    "modelMotionFile": "sex/p21_love_hotel_night_extra_loo/main.vmd",
+    "partnerMotionFile": "sex/p21_love_hotel_night_extra_loo/partner.vmd",
+    "camMotionFile": "sex/p21_love_hotel_night_extra_loo/camera.vmd"
+  },
+  {
+    "name": "Table Sex From Behind Loop",
+    "group": "Sex",
+    "modelMotionFile": "sex/p21_love_hotel_night_extra_loo/main_2.vmd",
+    "partnerMotionFile": "sex/p21_love_hotel_night_extra_loo/partner_2.vmd",
+    "camMotionFile": "sex/p21_love_hotel_night_extra_loo/camera_2.vmd"
+  },
+  {
+    "name": "Table Sex Missionary Loop",
+    "group": "Sex",
+    "modelMotionFile": "sex/p21_love_hotel_night_extra_loo/main_3.vmd",
+    "partnerMotionFile": "sex/p21_love_hotel_night_extra_loo/partner_3.vmd",
+    "camMotionFile": "sex/p21_love_hotel_night_extra_loo/camera_3.vmd"
+  },
+  {
+    "name": "Marshmallow Butt",
+    "group": "Sex",
+    "modelMotionFile": "sex/p22_marshmallow_butt/main.vmd",
+    "partnerMotionFile": "sex/p22_marshmallow_butt/partner.vmd",
+    "camMotionFile": "sex/p22_marshmallow_butt/camera.vmd"
+  },
+  {
+    "name": "Welcome - Missionary",
+    "group": "Sex",
+    "modelMotionFile": "sex/p23_missionary/main.vmd",
+    "partnerMotionFile": "sex/p23_missionary/partner.vmd",
+    "camMotionFile": "sex/p23_missionary/camera.vmd",
+    "partnerExpressionMotionFile": "sex/p23_missionary/partner_expression.vmd",
+    "audioPlayerFile": "sex/p23_missionary/audio.wav"
+  },
+  {
+    "name": "RS2",
+    "group": "Sex",
+    "modelMotionFile": "sex/p24_mmd/main.vmd",
+    "partnerMotionFile": "sex/p24_mmd/partner.vmd"
+  },
+  {
+    "name": "Sex on the floor",
+    "group": "Sex",
+    "modelMotionFile": "sex/p25_on_the_floor/main.vmd",
+    "partnerMotionFile": "sex/p25_on_the_floor/partner.vmd",
+    "camMotionFile": "sex/p25_on_the_floor/camera.vmd"
+  },
+  {
+    "name": "Pink lounge - Blowjob",
+    "group": "Sex",
+    "modelMotionFile": "sex/p26_pink_lounge_sex_update_1_1/main.vmd",
+    "partnerMotionFile": "sex/p26_pink_lounge_sex_update_1_1/partner.vmd",
+    "camMotionFile": "sex/p26_pink_lounge_sex_update_1_1/camera.vmd"
+  },
+  {
+    "name": "Pink lounge - Sex from behind",
+    "group": "Sex",
+    "modelMotionFile": "sex/p26_pink_lounge_sex_update_1_1/main_2.vmd",
+    "partnerMotionFile": "sex/p26_pink_lounge_sex_update_1_1/partner_2.vmd",
+    "camMotionFile": "sex/p26_pink_lounge_sex_update_1_1/camera_2.vmd"
+  },
+  {
+    "name": "Pink lounge - Sex from behind (no IK arms)",
+    "group": "Sex",
+    "modelMotionFile": "sex/p26_pink_lounge_sex_update_1_1/main_2.vmd",
+    "partnerMotionFile": "sex/p26_pink_lounge_sex_update_1_1/partner_3.vmd",
+    "camMotionFile": "sex/p26_pink_lounge_sex_update_1_1/camera_2.vmd"
+  },
+  {
+    "name": "Welcome - Prone Bone",
+    "group": "Sex",
+    "modelMotionFile": "sex/p27_prone_bone/main.vmd",
+    "partnerMotionFile": "sex/p27_prone_bone/partner.vmd",
+    "camMotionFile": "sex/p27_prone_bone/camera.vmd",
+    "audioPlayerFile": "sex/p27_prone_bone/audio.wav"
+  },
+  {
+    "name": "Reverse cowgirl",
+    "group": "Sex",
+    "modelMotionFile": "sex/p28_rcg/main.vmd",
+    "partnerMotionFile": "sex/p28_rcg/partner.vmd",
+    "camMotionFile": "sex/p28_rcg/camera.vmd"
+  },
+  {
+    "name": "Reverse Stradle - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p29_reverse_stradle_by_ademar4/main.vmd",
+    "partnerMotionFile": "sex/p29_reverse_stradle_by_ademar4/partner.vmd"
+  },
+  {
+    "name": "Sitting Footjob",
+    "group": "Sex",
+    "modelMotionFile": "sex/p30_sitting_fj/main.vmd",
+    "partnerMotionFile": "sex/p30_sitting_fj/partner.vmd",
+    "camMotionFile": "sex/p30_sitting_fj/camera.vmd"
+  },
+  {
+    "name": "Sex on the floor V2 - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p31_sotf_v2/main.vmd",
+    "partnerMotionFile": "sex/p31_sotf_v2/partner.vmd"
+  },
+  {
+    "name": "Spooning 2",
+    "group": "Sex",
+    "modelMotionFile": "sex/p32_spooning_ii/main.vmd",
+    "partnerMotionFile": "sex/p32_spooning_ii/partner.vmd"
+  },
+  {
+    "name": "Table Sex Missionary Loop V2 - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p33_tsm_v2/main.vmd",
+    "partnerMotionFile": "sex/p33_tsm_v2/partner.vmd"
+  },
+  {
+    "name": "Welcome - Blowjob V2 - Maran",
+    "group": "Sex",
+    "modelMotionFile": "sex/p34_welcome_bjv2_2021_uptade/main.vmd",
+    "partnerMotionFile": "sex/p34_welcome_bjv2_2021_uptade/partner.vmd",
+    "camMotionFile": "sex/p02_blowjob/camera.vmd",
+    "audioPlayerFile": "sex/p02_blowjob/audio.wav"
+  },
+  {
+    "name": "Welcome - Blowjob V2 - Sin Sack",
+    "group": "Sex",
+    "modelMotionFile": "sex/p34_welcome_bjv2_2021_uptade/main.vmd",
+    "partnerMotionFile": "sex/p34_welcome_bjv2_2021_uptade/partner_2.vmd",
+    "camMotionFile": "sex/p02_blowjob/camera.vmd",
+    "audioPlayerFile": "sex/p02_blowjob/audio.wav"
+  },
+  {
+    "name": "What is this hard thing",
+    "group": "Sex",
+    "modelMotionFile": "sex/p01_what_is_this_hard_thing/main_2.vmd",
+    "partnerMotionFile": "sex/p01_what_is_this_hard_thing/partner.vmd",
+    "camMotionFile": "sex/p01_what_is_this_hard_thing/camera_2.vmd"
   }
 ]
