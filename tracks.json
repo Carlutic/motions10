@@ -18,7 +18,8 @@
     "group": "Dance and Sex",
     "modelMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/main_3.vmd",
     "camMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/camera.vmd",
-    "expressionMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/expression.vmd"
+    "expressionMotionFile": "dance_and_sex/p00_30fps_i_like_to_move_sdmd/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/e785165bf65e5805.mp3"
   },
   {
     "name": "オートバス_Tdaミク",
@@ -247,12 +248,14 @@
   {
     "name": "Izumi Enjoys",
     "group": "Sex",
-    "modelMotionFile": "sex/p00_p/main.vmd"
+    "modelMotionFile": "sex/p00_p/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a9aef9507536f51d.mp3"
   },
   {
     "name": "Shake it Izumi",
     "group": "Sex",
-    "modelMotionFile": "sex/p00_p/main_2.vmd"
+    "modelMotionFile": "sex/p00_p/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a9aef9507536f51d.mp3"
   },
   {
     "name": "What do you want me to do",
@@ -320,25 +323,29 @@
     "name": "Fondling 01 - Maran",
     "group": "Sex",
     "modelMotionFile": "sex/p09_just_tonight_1_1_by_ademar/main.vmd",
-    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner.vmd"
+    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a9aef9507536f51d.mp3"
   },
   {
     "name": "Fondling 01 - Sin Sack",
     "group": "Sex",
     "modelMotionFile": "sex/p09_just_tonight_1_1_by_ademar/main.vmd",
-    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_2.vmd"
+    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a9aef9507536f51d.mp3"
   },
   {
     "name": "Fondling 02 - Maran",
     "group": "Sex",
     "modelMotionFile": "sex/p09_just_tonight_1_1_by_ademar/main_2.vmd",
-    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_3.vmd"
+    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a9aef9507536f51d.mp3"
   },
   {
     "name": "Fondling 02 - Sin Sack",
     "group": "Sex",
     "modelMotionFile": "sex/p09_just_tonight_1_1_by_ademar/main_2.vmd",
-    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_4.vmd"
+    "partnerMotionFile": "sex/p09_just_tonight_1_1_by_ademar/partner_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a9aef9507536f51d.mp3"
   },
   {
     "name": "Lap Sitting",
