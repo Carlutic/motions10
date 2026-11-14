@@ -573,5 +573,18 @@
     "modelMotionFile": "sex/p01_what_is_this_hard_thing/main_2.vmd",
     "partnerMotionFile": "sex/p01_what_is_this_hard_thing/partner.vmd",
     "camMotionFile": "sex/p01_what_is_this_hard_thing/camera_2.vmd"
+  },
+  {
+    "name": "Hai Phut Hon",
+    "group": "Sex",
+    "modelMotionFile": "sex/hai_phut_hon/dance1.vmd",
+    "camMotionFile": "sex/hai_phut_hon/camera1.vmd"
+  },
+  {
+    "name": "Hai Phut Hon (双人)",
+    "group": "Sex",
+    "modelMotionFile": "sex/hai_phut_hon/dance2A.vmd",
+    "partnerMotionFile": "sex/hai_phut_hon/dance2B.vmd",
+    "camMotionFile": "sex/hai_phut_hon/camera2.vmd"
   }
 ]
