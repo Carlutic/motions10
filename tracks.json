@@ -129,7 +129,8 @@
     "name": "SEXダーリンダンス",
     "group": "Dance and Sex",
     "modelMotionFile": "dance_and_sex/p11_sex/main.vmd",
-    "partnerMotionFile": "dance_and_sex/p11_sex/partner.vmd"
+    "partnerMotionFile": "dance_and_sex/p11_sex/partner.vmd",
+    "audioPlayerFile": "dance_and_sex/p11_sex/audio.mp3"
   },
   {
     "name": "Full swim 1",
@@ -193,21 +194,24 @@
     "group": "Dance and Sex",
     "modelMotionFile": "dance_and_sex/p17_pack/main.vmd",
     "partnerMotionFile": "dance_and_sex/p17_pack/partner.vmd",
-    "camMotionFile": "dance_and_sex/p17_pack/camera.vmd"
+    "camMotionFile": "dance_and_sex/p17_pack/camera.vmd",
+    "audioPlayerFile": "dance_and_sex/p17_pack/audio.mp3"
   },
   {
     "name": "お願いモーション",
     "group": "Dance and Sex",
     "modelMotionFile": "dance_and_sex/p19_pack/main.vmd",
     "partnerMotionFile": "dance_and_sex/p19_pack/partner.vmd",
-    "camMotionFile": "dance_and_sex/p19_pack/camera.vmd"
+    "camMotionFile": "dance_and_sex/p19_pack/camera.vmd",
+    "audioPlayerFile": "dance_and_sex/p19_pack/audio.mp3"
   },
   {
     "name": "お願いモーション (改変版)",
     "group": "Dance and Sex",
     "modelMotionFile": "dance_and_sex/p19_pack/main_2.vmd",
     "partnerMotionFile": "dance_and_sex/p19_pack/partner_2.vmd",
-    "camMotionFile": "dance_and_sex/p19_pack/camera_2.vmd"
+    "camMotionFile": "dance_and_sex/p19_pack/camera_2.vmd",
+    "audioPlayerFile": "dance_and_sex/p19_pack/audio.mp3"
   },
   {
     "name": "皆で仲良くポンデステーン（女真ん中）",
